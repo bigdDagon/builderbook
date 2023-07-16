@@ -1,21 +1,3 @@
-![image](https://user-images.githubusercontent.com/26158226/155850630-137ae3be-aa29-487b-a422-e8fb4db634dc.png)
-
-
-## Builder Book
-
-Open source web app to self-publish and sell books or other online content. 
-
-If you want to learn how to build this project from scratch, check out our book: https://builderbook.org. 
-
-The open source project is located in the `builderbook` folder. If you purchased our book, codebases for each of the book's chapters are located in the `book` folder.
-
-We've used this `builderbook` project to build:
-- [Builder Book](https://builderbook.org) - learn how to build full-stack web apps from scratch
-- [SaaS Boilerplate](https://github.com/async-labs/saas) - open source web app to build your own SaaS product
-- [Work in biotech](https://workinbiotech.com) - job board for small and young biotech companies
-- [Async](https://async-await.com) - open source urgent vs non-urgent team communication tool for small teams
-- [Async Labs](https://async-labs.com) - many custom dev projects
-
 
 ## Live app:
 
